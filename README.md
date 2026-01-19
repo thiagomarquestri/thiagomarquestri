@@ -37,6 +37,7 @@ Currently improving **advanced SQL** skills and starting studies in **Python for
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,postgres,python,excel,powerbi&theme=dark" />
 </p>
+>
 
 
 
@@ -48,19 +49,16 @@ Currently improving **advanced SQL** skills and starting studies in **Python for
 
 ### 📌 Development & Version Control
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40"/>
+  <img src="https://skillicons.dev/icons?i=git,github,csharp&theme=dark" />
 </p>
 
 ---
 
 ### 📚 Currently Learning
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="40"/>
+  <img src="https://skillicons.dev/icons?i=python,pandas,numpy&theme=dark" />
 </p>
+
 
 ---
 
