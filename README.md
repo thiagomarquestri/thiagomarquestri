@@ -95,7 +95,7 @@ Currently improving **advanced SQL** skills and starting studies in **Python for
 ## 📫 Contact
 
 <p align="left">
-  <a href="mailto:SEUEMAIL@gmail.com">
+  <a href="mailto:thiiagomarquesbr@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/thiiagomarques/" target="_blank">
