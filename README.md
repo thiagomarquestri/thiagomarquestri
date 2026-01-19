@@ -37,7 +37,7 @@ Currently improving **advanced SQL** skills and starting studies in **Python for
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,postgres,python,excel,powerbi&theme=dark" />
 </p>
->
+
 
 
 
