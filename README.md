@@ -1,17 +1,21 @@
-# 👋 Hi, I'm Thiago Marques
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2563EB&height=120&section=header"/>
 
-🎓 **Análise e Desenvolvimento de Sistemas** – 5º semestre  
+# 👋 Oi, eu sou o Thiago Marques
+
+🎓 **Análise e Desenvolvimento de Sistemas – 5º semestre**  
 🏫 **PUC Minas – Campus Contagem**  
 📊 **Data Focus | SQL | Analytics | BI**  
 🎯 **Seeking Data Internship**
 
 ---
 
+<img align="right" width="360" src="./assets/laptop.png"/>
+
 ## 🇧🇷 Sobre mim
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas** na **PUC Minas Contagem**, atualmente no **5º semestre**, com foco total na **área de Dados**.
 
-Tenho afinidade com **análise de dados, SQL avançado, Excel e Power BI**, sempre buscando transformar dados em **informações úteis para tomada de decisão**.  
+Tenho afinidade com **análise de dados, SQL avançado, Excel e Power BI**, buscando transformar dados em **informações úteis para tomada de decisão**.  
 Atualmente estou **aprimorando SQL avançado** e iniciando meus estudos em **Python aplicado a dados**.
 
 ---
@@ -31,34 +35,30 @@ Currently improving **advanced SQL** skills and starting studies in **Python for
 
 ---
 
+## 📊 Most Used Tools
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagomarquestri&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
 ## 🛠️ Technologies & Tools
 
 ### 📌 Data Focus
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=mysql,postgres,python,excel,powerbi&theme=dark" />
 </p>
 
-
-
-
-
-
-
-
----
-
 ### 📌 Development & Version Control
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=git,github,csharp&theme=dark" />
 </p>
 
----
-
 ### 📚 Currently Learning
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=python,pandas,numpy&theme=dark" />
 </p>
-
 
 ---
 
@@ -69,7 +69,7 @@ Currently improving **advanced SQL** skills and starting studies in **Python for
 - ⚙️ **Power BI:** Intermediate  
 - ⚙️ **Git & GitHub:** Intermediate  
 - ⚙️ **C#:** Basic / Intermediate  
-- 📚 **Python (Data):** Learning
+- 📚 **Python (Data):** Learning  
 
 ---
 
@@ -93,21 +93,22 @@ Currently improving **advanced SQL** skills and starting studies in **Python for
 
 ---
 
-## 📫 Contact
-
-<p align="left">
-  <a href="mailto:thiiagomarqueesbr@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-
-  <a href="https://www.linkedin.com/in/thiiagomarques/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+## 📊 GitHub Stats
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=thiagomarquestri&show_icons=true&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=thiagomarquestri&theme=tokyonight"/>
 </p>
-
 
 ---
 
-## ⚡ Fun Fact
+## 📫 Contact
+<p>
+  <a href="mailto:thiiagomarqueesbr@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-2563EB?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/thiiagomarques/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
-I have professional experience outside the technology field, which helped me develop **organization, responsibility, teamwork, and business vision**.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2563EB&height=120&section=footer"/>
